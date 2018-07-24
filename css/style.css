@@ -1,7 +1,8 @@
 /* add CSS class and element and selectors here */
 body {
   background-color: pink;
-  font-size: 150%
+  font-size: 150%;
+  font: green;
 }
 
 .example {
