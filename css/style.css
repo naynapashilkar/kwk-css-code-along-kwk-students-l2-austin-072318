@@ -13,3 +13,7 @@ body {
   letter-spacing: 5px;
   transition: rotate(-30)deg;
 }
+h3 {
+  font-size: 300%;
+}
+}
