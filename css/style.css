@@ -3,7 +3,7 @@ body {
   background-color: pink;
   font-size: 150%;
   color: green;
-  text-shadow: 
+  text-shadow: 3px 3px blue;
 }
 
 .example {
